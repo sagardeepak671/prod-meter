@@ -8,7 +8,7 @@ category breakdown that tells you when more than 15% of your week went to waste.
 `localStorage` for instant loads and syncs to Firestore when you sign in, so it survives across
 devices.
 
-**Live: [prodmeter.vercel.app](https://prodmeter.vercel.app)**
+**Live Demo:** [https://prodmeter.vercel.app](https://prodmeter.vercel.app)
 
 Built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, Firebase and Recharts.
 
